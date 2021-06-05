@@ -1,0 +1,40 @@
+
+@import 'custom-style/variables';
+@import 'custom-style/mixins';
+
+// Plugins CSS
+@import "custom-style/plugins/plugin-bootstrap-switch";
+@import "custom-style/plugins/plugin-nouislider";
+@import "custom-style/plugins/plugin-datepicker";
+
+// Core CSS
+@import "custom-style/buttons";
+@import "custom-style/inputs";
+@import "custom-style/checkboxes-radio";
+@import "custom-style/progress";
+@import "custom-style/badges";
+@import "custom-style/pagination";
+@import "custom-style/typography";
+@import "custom-style/misc";
+@import "custom-style/pills";
+
+// components
+@import "custom-style/social-buttons";
+@import "custom-style/tabs";
+@import "custom-style/navbar";
+@import "custom-style/dropdown";
+@import "custom-style/alerts";
+@import "custom-style/images";
+@import "custom-style/popups";
+@import "custom-style/nucleo-outline";
+@import "custom-style/modals";
+@import "custom-style/carousel";
+@import "custom-style/cards";
+@import "custom-style/footers";
+
+// example pages and sections
+@import "custom-style/example-pages";
+@import "custom-style/sections";
+
+
+@import "custom-style/responsive";
